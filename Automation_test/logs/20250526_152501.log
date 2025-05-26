@@ -1,0 +1,112 @@
+2025-05-26 15:25:01,593 - __main__ - INFO - [8710654976]MainThread - Starting test on: ios
+2025-05-26 15:25:01,593 - __main__ - INFO - [8710654976]MainThread - Created screenshot folder: screenshots/run_20250526_152501
+2025-05-26 15:25:07,190 - __main__ - INFO - [8710654976]MainThread - Initialized Appium driver successfully
+2025-05-26 15:25:07,965 - __main__ - INFO - [8710654976]MainThread - found target element
+2025-05-26 15:25:08,500 - __main__ - INFO - [8710654976]MainThread - loading js successfully
+2025-05-26 15:25:08,777 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152508_homepage.png
+2025-05-26 15:25:08,859 - __main__ - INFO - [8710654976]MainThread - Click hamburger btn successfully
+2025-05-26 15:25:08,897 - __main__ - INFO - [8710654976]MainThread - found target element
+2025-05-26 15:25:08,924 - __main__ - INFO - [8710654976]MainThread - loading js successfully
+2025-05-26 15:25:08,980 - __main__ - INFO - [8710654976]MainThread - Click product introduction btn successfully
+2025-05-26 15:25:09,015 - __main__ - INFO - [8710654976]MainThread - found target element
+2025-05-26 15:25:09,063 - __main__ - INFO - [8710654976]MainThread - loading js successfully
+2025-05-26 15:25:09,113 - __main__ - INFO - [8710654976]MainThread - Click credit card btn successfully
+2025-05-26 15:25:09,123 - __main__ - INFO - [8710654976]MainThread - found target element
+2025-05-26 15:25:09,128 - __main__ - INFO - [8710654976]MainThread - loading js successfully
+2025-05-26 15:25:09,204 - __main__ - INFO - [8710654976]MainThread - Click card introduction btn successfully
+2025-05-26 15:25:09,741 - __main__ - INFO - [8710654976]MainThread - found target element
+2025-05-26 15:25:10,946 - __main__ - INFO - [8710654976]MainThread - loading js successfully
+2025-05-26 15:25:10,990 - __main__ - INFO - [8710654976]MainThread - Found slides: [<appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309740")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309741")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309742")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309743")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309744")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309745")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309746")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309747")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309748")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309749")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309750")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309751")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309752")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309753")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309754")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309755")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309756")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309757")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309758")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309759")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309760")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309761")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309762")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309763")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309764")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309765")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309766")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309767")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309768")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309769")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309770")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309771")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309772")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309773")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309774")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309775")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309776")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309777")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309778")>, <appium.webdriver.webelement.WebElement (session="a720741b-e881-417d-b2b5-1656b3cfaf95", element=":wdc:1748244309779")>]
+2025-05-26 15:25:11,188 - __main__ - INFO - [8710654976]MainThread - Found slide: 11 has title
+2025-05-26 15:25:11,208 - __main__ - INFO - [8710654976]MainThread - Found slide: 12 has title
+2025-05-26 15:25:11,216 - __main__ - INFO - [8710654976]MainThread - Found slide: 13 has title
+2025-05-26 15:25:11,223 - __main__ - INFO - [8710654976]MainThread - Found slide: 14 has title
+2025-05-26 15:25:11,240 - __main__ - INFO - [8710654976]MainThread - Found slide: 15 has title
+2025-05-26 15:25:11,249 - __main__ - INFO - [8710654976]MainThread - Found slide: 16 has title
+2025-05-26 15:25:11,259 - __main__ - INFO - [8710654976]MainThread - Found slide: 17 has title
+2025-05-26 15:25:11,265 - __main__ - INFO - [8710654976]MainThread - Found slide: 18 has title
+2025-05-26 15:25:11,270 - __main__ - INFO - [8710654976]MainThread - Found slide: 19 has title
+2025-05-26 15:25:11,275 - __main__ - INFO - [8710654976]MainThread - Found slide: 20 has title
+2025-05-26 15:25:11,282 - __main__ - INFO - [8710654976]MainThread - Found slide: 21 has title
+2025-05-26 15:25:11,288 - __main__ - INFO - [8710654976]MainThread - Found slide: 22 has title
+2025-05-26 15:25:11,301 - __main__ - INFO - [8710654976]MainThread - Found slide: 23 has title
+2025-05-26 15:25:11,311 - __main__ - INFO - [8710654976]MainThread - Found slide: 24 has title
+2025-05-26 15:25:11,316 - __main__ - INFO - [8710654976]MainThread - Found slide: 25 has title
+2025-05-26 15:25:11,321 - __main__ - INFO - [8710654976]MainThread - Found slide: 26 has title
+2025-05-26 15:25:11,326 - __main__ - INFO - [8710654976]MainThread - Found slide: 27 has title
+2025-05-26 15:25:11,332 - __main__ - INFO - [8710654976]MainThread - Found slide: 28 has title
+2025-05-26 15:25:11,339 - __main__ - INFO - [8710654976]MainThread - Found slide: 29 has title
+2025-05-26 15:25:11,345 - __main__ - INFO - [8710654976]MainThread - Found slide: 30 has title
+2025-05-26 15:25:11,351 - __main__ - INFO - [8710654976]MainThread - Found slide: 31 has title
+2025-05-26 15:25:11,355 - __main__ - INFO - [8710654976]MainThread - Found slide: 32 has title
+2025-05-26 15:25:11,365 - __main__ - INFO - [8710654976]MainThread - Found slide: 33 has title
+2025-05-26 15:25:11,372 - __main__ - INFO - [8710654976]MainThread - Found slide: 34 has title
+2025-05-26 15:25:11,378 - __main__ - INFO - [8710654976]MainThread - Found slide: 35 has title
+2025-05-26 15:25:11,387 - __main__ - INFO - [8710654976]MainThread - Found slide: 36 has title
+2025-05-26 15:25:11,397 - __main__ - INFO - [8710654976]MainThread - Found slide: 37 has title
+2025-05-26 15:25:11,407 - __main__ - INFO - [8710654976]MainThread - Found slide: 38 has title
+2025-05-26 15:25:11,412 - __main__ - INFO - [8710654976]MainThread - Found slide: 39 has title
+2025-05-26 15:25:11,430 - __main__ - INFO - [8710654976]MainThread - Found slide: 40 has title
+2025-05-26 15:25:11,431 - __main__ - INFO - [8710654976]MainThread - found 30 slides have card
+2025-05-26 15:25:11,431 - __main__ - INFO - [8710654976]MainThread - Click card no. 1
+2025-05-26 15:25:11,592 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152511_card_1.png
+2025-05-26 15:25:12,625 - __main__ - INFO - [8710654976]MainThread - Click card no. 2
+2025-05-26 15:25:12,777 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152512_card_2.png
+2025-05-26 15:25:13,825 - __main__ - INFO - [8710654976]MainThread - Click card no. 3
+2025-05-26 15:25:13,988 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152513_card_3.png
+2025-05-26 15:25:15,048 - __main__ - INFO - [8710654976]MainThread - Click card no. 4
+2025-05-26 15:25:15,213 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152515_card_4.png
+2025-05-26 15:25:16,250 - __main__ - INFO - [8710654976]MainThread - Click card no. 5
+2025-05-26 15:25:16,416 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152516_card_5.png
+2025-05-26 15:25:17,461 - __main__ - INFO - [8710654976]MainThread - Click card no. 6
+2025-05-26 15:25:17,648 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152517_card_6.png
+2025-05-26 15:25:18,685 - __main__ - INFO - [8710654976]MainThread - Click card no. 7
+2025-05-26 15:25:18,845 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152518_card_7.png
+2025-05-26 15:25:19,895 - __main__ - INFO - [8710654976]MainThread - Click card no. 8
+2025-05-26 15:25:20,012 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152519_card_8.png
+2025-05-26 15:25:21,051 - __main__ - INFO - [8710654976]MainThread - Click card no. 9
+2025-05-26 15:25:21,219 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152521_card_9.png
+2025-05-26 15:25:22,258 - __main__ - INFO - [8710654976]MainThread - Click card no. 10
+2025-05-26 15:25:22,414 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152522_card_10.png
+2025-05-26 15:25:23,458 - __main__ - INFO - [8710654976]MainThread - Click card no. 11
+2025-05-26 15:25:23,616 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152523_card_11.png
+2025-05-26 15:25:24,690 - __main__ - INFO - [8710654976]MainThread - Click card no. 12
+2025-05-26 15:25:24,849 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152524_card_12.png
+2025-05-26 15:25:25,888 - __main__ - INFO - [8710654976]MainThread - Click card no. 13
+2025-05-26 15:25:26,023 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152525_card_13.png
+2025-05-26 15:25:27,059 - __main__ - INFO - [8710654976]MainThread - Click card no. 14
+2025-05-26 15:25:27,229 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152527_card_14.png
+2025-05-26 15:25:28,280 - __main__ - INFO - [8710654976]MainThread - Click card no. 15
+2025-05-26 15:25:28,449 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152528_card_15.png
+2025-05-26 15:25:29,491 - __main__ - INFO - [8710654976]MainThread - Click card no. 16
+2025-05-26 15:25:29,651 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152529_card_16.png
+2025-05-26 15:25:30,684 - __main__ - INFO - [8710654976]MainThread - Click card no. 17
+2025-05-26 15:25:30,865 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152530_card_17.png
+2025-05-26 15:25:31,900 - __main__ - INFO - [8710654976]MainThread - Click card no. 18
+2025-05-26 15:25:32,052 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152531_card_18.png
+2025-05-26 15:25:33,096 - __main__ - INFO - [8710654976]MainThread - Click card no. 19
+2025-05-26 15:25:33,265 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152533_card_19.png
+2025-05-26 15:25:34,300 - __main__ - INFO - [8710654976]MainThread - Click card no. 20
+2025-05-26 15:25:34,469 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152534_card_20.png
+2025-05-26 15:25:35,510 - __main__ - INFO - [8710654976]MainThread - Click card no. 21
+2025-05-26 15:25:35,666 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152535_card_21.png
+2025-05-26 15:25:36,721 - __main__ - INFO - [8710654976]MainThread - Click card no. 22
+2025-05-26 15:25:36,896 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152536_card_22.png
+2025-05-26 15:25:37,934 - __main__ - INFO - [8710654976]MainThread - Click card no. 23
+2025-05-26 15:25:38,101 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152537_card_23.png
+2025-05-26 15:25:39,139 - __main__ - INFO - [8710654976]MainThread - Click card no. 24
+2025-05-26 15:25:39,300 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152539_card_24.png
+2025-05-26 15:25:40,362 - __main__ - INFO - [8710654976]MainThread - Click card no. 25
+2025-05-26 15:25:40,526 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152540_card_25.png
+2025-05-26 15:25:41,565 - __main__ - INFO - [8710654976]MainThread - Click card no. 26
+2025-05-26 15:25:41,729 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152541_card_26.png
+2025-05-26 15:25:42,763 - __main__ - INFO - [8710654976]MainThread - Click card no. 27
+2025-05-26 15:25:42,907 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152542_card_27.png
+2025-05-26 15:25:43,958 - __main__ - INFO - [8710654976]MainThread - Click card no. 28
+2025-05-26 15:25:44,122 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152543_card_28.png
+2025-05-26 15:25:45,162 - __main__ - INFO - [8710654976]MainThread - Click card no. 29
+2025-05-26 15:25:45,352 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152545_card_29.png
+2025-05-26 15:25:46,391 - __main__ - INFO - [8710654976]MainThread - Click card no. 30
+2025-05-26 15:25:46,543 - __main__ - INFO - [8710654976]MainThread - [Screenshot] Saved: screenshots/run_20250526_152501/20250526_152546_card_30.png
+2025-05-26 15:25:47,584 - __main__ - INFO - [8710654976]MainThread - Test finished
+2025-05-26 15:25:48,712 - __main__ - INFO - [8710654976]MainThread - Driver closed successfully.
