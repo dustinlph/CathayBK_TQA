@@ -159,4 +159,15 @@ def main(platform: str):
 
 
 if __name__ == "__main__":
-	main("android")
+	import argparse
+
+	parser = argparse.ArgumentParser(description="Run Appium test for specified platform.")
+	parser.add_argument(
+		"-p", "--platform",
+		required=True,
+		choices=["android", "ios"],
+		help="Select the testing platform: android or ios"
+	)
+
+	args = parser.parse_args()
+	main(args.platform)
