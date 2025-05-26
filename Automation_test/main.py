@@ -72,11 +72,13 @@ def wait_for_page_loaded(driver, target_xpath, timeout=20):
 def click_all_card_slides(driver, folder):
 	driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 	slides = driver.find_elements(By.CSS_SELECTOR, ".cubre-o-slide__item.swiper-slide")
+	logger.info(f"Found slides: {slides}")
 	valid_slides = []
 
 	for card, slide in enumerate(slides):
 		try:
-			slide.find_element(By.CLASS_NAME, "cubre-m-compareCard__title")
+			slide.find_element(By.CSS_SELECTOR, ".cubre-m-compareCard__title")
+			logger.info(f"Found slide: {card + 1} has title")
 			valid_slides.append(slide)
 		except Exception as e:
 			logger.debug(f"slide no. {card + 1} has no card | {e}")
